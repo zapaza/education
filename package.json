@@ -1,0 +1,24 @@
+{
+  "name": "education",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zapaza/education.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zapaza/education/issues"
+  },
+  "homepage": "https://github.com/zapaza/education#readme",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
